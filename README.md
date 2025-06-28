@@ -12,3 +12,5 @@ ZJU Comprehensive Practice of Robots and Intelligent Systems - Task 1
 - IK.py: 逆运动学解析解计算
 - traj_planning.py: 六次多项式轨迹规划，以及左右基底切换
 - main.py: 主函数
+
+正逆运动学结果已经在相关代码中离线计算好，在traj_planning当中直接代入计算结果。
