@@ -3,6 +3,8 @@ ZJU Comprehensive Practice of Robots and Intelligent Systems - Task 1
 
 浙江大学 机器人与智能系统综合实践 作业1
 
+By HONG, YANG, TANG at 28 Jun, 2025
+
 文件内容：
 
 - SpaceRobot.ttt: Coppeliasim仿真文件
