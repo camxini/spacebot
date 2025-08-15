@@ -19,3 +19,5 @@ By HONG, YANG, TANG at 28 Jun, 2025
 - main.py: 主函数
 
 正逆运动学结果已经在相关代码中离线计算好，在traj_planning当中直接代入计算结果。
+
+*For more details, please visit [https://github.com/DrRedTheRed/SpaceBot](https://github.com/DrRedTheRed/SpaceBot).*
